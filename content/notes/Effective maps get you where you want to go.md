@@ -1,1 +1,5 @@
+---
+title: "Effective maps"
+---
+
 You can't measure the effectiveness of a map based on its resolution or how well it was constructed. These are useful things to know, but the effectiveness of maps is measured based on where you want to go.

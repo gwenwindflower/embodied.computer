@@ -1,3 +1,7 @@
+---
+title: "Structure, not process"
+---
+
 _Structure_ is what, when, where, why, and how to do a thing. For example, proposals go in a certain Notion database, they use a specific template, they require certain metadata. Structure is used to create _clarity_, which empowers independent action. When you've got clarity you can move faster.
 
 _Process_ is **_layers_** of structure. It involves gatekeeping to move from one layer to the next. It's used in an attempt to control outcomes and make work more repeatable (or more likely, repetitive). Control slows things down. You can put a restricter on an engine to ensure it doesn't exceed 30 mph. The consequence is you won't go more than 30 mph.

@@ -12,15 +12,17 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/gwenwindflower/embodied.computer/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description: The working notes of Gwen Windflower.
-page_title: "🪴 embodied.computer"
+page_title: "🌱💽 embodied.computer 🦋💻"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://sunn.garden/winnie
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/gwenwindflower
+  - link_name: Blog
+    link: https://gwenwindflower.com

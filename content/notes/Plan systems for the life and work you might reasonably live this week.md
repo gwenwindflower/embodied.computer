@@ -1,3 +1,7 @@
+---
+title: "Plan systems on a weekly time horizon"
+---
+
 There's an unresolvable tension between two poles:
 
 - integration, completeness, complexity
