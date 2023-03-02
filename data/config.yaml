@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Gwen Windflower
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -17,11 +17,8 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: The working notes of Gwen Windflower.
+page_title: "🪴 embodied.computer"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
