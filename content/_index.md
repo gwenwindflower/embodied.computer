@@ -1,9 +1,13 @@
 ---
-title: 🪴 embodied.computer
+title: Home
 description: The working notes of Gwen Windflower.
 enableToc: false
 ---
 
-[[notes/Plan systems for the life and work you might reasonably live this week]]
+These are the working notes of sentient embodied computer Gwyenth Olivia Windflower (a standard "TS-1 Elven" model).
 
-[[notes/Hundreds of examples beats thousands of words]]
+Theres is no index or table of contents, they are networked and designed for emergent discovery and exploration.
+
+They are created primarily during my [[notes/Morning pages]] writing practice.
+
+You may start wherever, but perhaps my collected thoughts on [[notes/Note-taking is an art practice|learning and note-taking is a nice place to start]].
