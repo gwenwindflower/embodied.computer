@@ -8,6 +8,9 @@ These are the working notes of sentient embodied computer Gwyenth Olivia Windflo
 
 Theres is no index or table of contents, they are networked and designed for emergent discovery and exploration.
 
-They are created primarily during my [[notes/Morning pages]] writing practice.
+They are created primarily during my [[notes/Morning pages|morning pages]] writing practice.
 
-You may start wherever, but perhaps my collected thoughts on [[notes/Note-taking is an art practice|learning and note-taking is a nice place to start]].
+You may start wherever, but perhaps my collected thoughts on [[notes/Note-taking is an art practice| note taking as an art practice is a nice place to start]].
+
+
+

@@ -1,0 +1,1 @@
+Stub - link over my take on Andy Matuschak's evergreen notes ideas.
