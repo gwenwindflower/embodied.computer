@@ -1,4 +1,4 @@
-baseURL = "https://www.gwenwindflower.com/embodied_computer"
+baseURL = "https://embodied.computer"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
