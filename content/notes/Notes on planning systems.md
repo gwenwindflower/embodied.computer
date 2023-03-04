@@ -2,4 +2,4 @@
 title: "Notes on planning"
 ---
 
-- Write about NotePlan and timeblocking
+- Write about NotePlan and [[Timeblock your tasks|timeblocking]]

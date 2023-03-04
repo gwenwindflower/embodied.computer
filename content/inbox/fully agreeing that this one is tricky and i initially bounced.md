@@ -1,0 +1,9 @@
+fighting is like a combustion engine. sure, it got you places for years. it's what you're comfortable with. you have evidence that it *works*. 
+
+to advocate for it as the best way to get around though is _settling_ and ignores the environmental costs. the tension of constantly drilling for dominance to fuel it. the exhaust of burning anger eroding the atmosphere for future generations. 
+
+we've built technical marvels with the combustion engine. the buggati veyron is a pretty astounding and beautiful machine. yet, in terms of global human happiness and a healthy planet, it's nothing compared to more expansive public transit, bicycles, solar power, and electric vehicles. 
+
+if you sunk years of your life into a system based on conflict, got good at it, and achieved great things with it, it's understandably hard to move on from. i'm sure whoever designed the buggati veyron doesn't wake up every day thinking about bicycles and solar powered buses (i would love to be wrong about this and see buggati solar buses in every major city one day). 
+
+i'd encourage us to consider the broader costs of these conflict-intensive systems though. not if they work or not, but could they work _better_. let's not settle for 'i was on a team that built great things and we fought all the time so fighting is good'. could we instead understand communication and human interaction as an aspect of the technologies we're building, and push to improve that as much as the tech? knowing how amazing and inspiring the people i interact with every day in the tech world are, i believe deeply that we could -- and that the results would be every bit as a significant as the other aspects of what we build. 

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"visuals/00000000nSa0NW7wZ5j9Yy.jpeg","id":"fcef2119bef61c56","x":-129,"y":40,"width":259,"height":257},
+		{"type":"file","file":"notes/Effective maps get you where you want to go.md","id":"2a95a75780d1a363","x":-20,"y":-580,"width":400,"height":400,"color":"5"}
+	],
+	"edges":[
+		{"id":"adb355c1a63d82a1","fromNode":"fcef2119bef61c56","fromSide":"top","toNode":"2a95a75780d1a363","toSide":"bottom"}
+	]
+}
