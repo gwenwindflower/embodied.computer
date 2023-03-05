@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c9c0efe9619ebaf1","x":500,"y":-280,"width":400,"height":300,"type":"file","file":"projects/typer todo app.md"},
+		{"type":"file","file":"projects/flask course.md","id":"d0e701e202d43376","x":-160,"y":-960,"width":400,"height":400},
+		{"id":"c5d5d2df4603c55e","x":-160,"y":-1560,"width":400,"height":400,"type":"file","file":"projects/fastapi course.md"},
+		{"id":"41c754a9a31fc7f5","x":500,"y":-2120,"width":400,"height":400,"type":"file","file":"projects/fastapi and react todo web app.md"},
+		{"id":"80a9f221bcaa1b5f","x":1160,"y":-280,"width":400,"height":300,"type":"file","file":"projects/p5 github sketches.md"}
+	],
+	"edges":[
+		{"id":"95864ea1ad70f371","fromNode":"c9c0efe9619ebaf1","fromSide":"top","toNode":"41c754a9a31fc7f5","toSide":"bottom"},
+		{"id":"db4148501e5075ec","fromNode":"c9c0efe9619ebaf1","fromSide":"left","toNode":"d0e701e202d43376","toSide":"right"},
+		{"id":"225c9d5f106ffb8d","fromNode":"d0e701e202d43376","fromSide":"top","toNode":"c5d5d2df4603c55e","toSide":"bottom"},
+		{"id":"18e4c294215e7ce0","fromNode":"c5d5d2df4603c55e","fromSide":"top","toNode":"41c754a9a31fc7f5","toSide":"bottom"}
+	]
+}

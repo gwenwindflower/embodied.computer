@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"🏖️ Buena Vista","id":"ef4672042291e287","x":-340,"y":10,"width":250,"height":60,"color":"5"},
+		{"id":"10f9d94ddb08486c","x":-340,"y":-160,"width":250,"height":70,"color":"2","type":"text","text":"🍊 dbt"},
+		{"type":"text","text":"⚡ Lightdash","id":"98f52e75111e2528","x":100,"y":10,"width":240,"height":60,"color":"6"},
+		{"type":"text","text":"🦆 DuckDB","id":"8ad48b908a2fb7f8","x":-800,"y":15,"width":250,"height":55,"color":"3"}
+	],
+	"edges":[
+		{"id":"63bf146fcd9d2ba2","fromNode":"ef4672042291e287","fromSide":"left","toNode":"8ad48b908a2fb7f8","toSide":"right","label":"dbt-duckb"},
+		{"id":"85255f532490577e","fromNode":"10f9d94ddb08486c","fromSide":"left","toNode":"8ad48b908a2fb7f8","toSide":"right","label":"dbt-duckdb"},
+		{"id":"643ea135a7c52142","fromNode":"98f52e75111e2528","fromSide":"left","toNode":"ef4672042291e287","toSide":"right","label":"dbt-trino"},
+		{"id":"89b06e85b16e1ac4","fromNode":"10f9d94ddb08486c","fromSide":"right","toNode":"98f52e75111e2528","toSide":"top","label":"lightdash CLI and server"}
+	]
+}
