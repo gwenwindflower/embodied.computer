@@ -12,5 +12,10 @@ They are created primarily during my [[notes/Morning pages|morning pages]] writi
 
 You may start wherever, but perhaps my collected thoughts on [[notes/Note-taking is an art practice|note taking as an art practice is a nice place to start]].
 
+There are some collections on:
+- [[notes/Ways of working|Work]]
+- [[notes/Ways of learning and teaching|Learning and teaching]]
+- [[notes/Life purposes|Life purposes]]
+- [[notes/Tools I use]]
 
 

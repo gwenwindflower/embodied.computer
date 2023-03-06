@@ -1,1 +1,3 @@
 Very often in tech companies there's a push against having any kind of process. The problem is process exists. Much like not standing up for social justice is itself a decision, not a non-decision, because no non-decision can be made, there can be no absence of process. There is only implicit or explicit process. [[notes/Clarity is an equalizing force|The former tends to benefit those in power already]].
+
+Often people argue that structure will slow things down or create hierarchy, but that is conflating [[notes/Process is layers of structure|process and structure]], as well as [[notes/Centralization and decentralization are not the same dialectic spectrum as control and cooperation|confusing centralization and control]].

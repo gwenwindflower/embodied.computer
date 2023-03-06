@@ -4,7 +4,7 @@ title: Centralization and decentralization are not the same dialectic spectrum a
 
 This is quite often confused
 
-People tend to think that [[notes/Structure is layers of process|structure and process are bad, when what they're really chafing at is _control_, _hierarchy_ (layers of control)]]. 
+People tend to think that [[notes/Process is layers of structure|structure and process are bad, when what they're really chafing at is _control_, _hierarchy_ (layers of control)]]. 
 
 Centralization and process can be hugely freeing, they create the conditions for clarity. [[Clarity is an equalizing force]]. Typically existing power structures and hierarchies are the ones that benefit for lack of clarity. If nobody knows what's going on or how decisions are made, those who already have power can continue operating as they wish. Thus it's no surprise that many of the biggest tech CEOs decry process as a innovation-killing and pace-slowing. If you have power, why would you want to introduce means by which it could be checked? Why would you want to transfer more power to the collective and away from yourself and those you choose? You wouldn't.
 

@@ -1,0 +1,17 @@
+# A Community Isn’t a Garden, It’s a Bar.
+
+![rw-book-cover](https://s0.wp.com/i/blank.jpg)
+
+## Metadata
+- Author: [[Derek Powazek]]
+- Full Title: A Community Isn’t a Garden, It’s a Bar.
+- Category: #articles
+- URL: https://powazek.com/posts/3571
+
+## Highlights
+- Bars are responsible for serving only so much alcohol per drink, not serving someone too intoxicated, not serving to anyone below a certain age. Keeping track of every drop of alcohol. And if they break any of these laws, they can be shut down permanently, owners can lose their license, people can go to jail. Why? Because alcohol is dangerous. With Facebook inciting [genocide in Myanmar](https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/), mass shooters in America being [radicalized online](https://ag.ny.gov/sites/default/files/buffaloshooting-onlineplatformsreport.pdf), the January 6 insurrection that was [planned online](https://www.vox.com/recode/22221285/trump-online-capitol-riot-far-right-parler-twitter-facebook), and [nazis reinstated](https://www.rollingstone.com/politics/politics-news/elon-musk-twitter-reinstates-neo-nazi-andrew-anglin-account-1234640390/) on Twitter, can anyone still claim that poorly managed social spaces are any less dangerous? ([View Highlight](https://read.readwise.io/read/01gm5qrv00ezgw817ndj7fx438))
+- The important part is, each bar cultivates its own culture and you can’t walk in to a bar and expect it to be like every other bar you’ve ever been in. And the bars themselves come up with ways to differentiate themselves and reinforce these differences, some overt and some subtle. ([View Highlight](https://read.readwise.io/read/01gm5r3mpxmfq74s9sbrs4j32r))
+- In the same way, community spaces online should be true to themselves. Not every community has to be for everybody. What a failure of imagination it is to think that all community spaces should look and act the same. The next Twitter, whatever it is, shouldn’t look or act like Twitter. You’d never take the entire population of the world and try to stuff them inside one bar, yet somehow Facebook thinks that everyone should be on Facebook. That’s just not how communities work. ([View Highlight](https://read.readwise.io/read/01gm5qy9enz6ffap1e76sgacq5))
+    - Tags: [[favorite]] [[community]] 
+- All those necessary employees I mentioned earlier cost money. Servers and software cost money. When we go into online communities expecting them to be free, [we become the product](http://powazek.com/posts/3229) that gets sold to advertisers and data brokers. The money has to be made somewhere. If we paid for our online communities, they might finally treat us, and our experiences, as valuable. We might finally get to be the customers, instead of the products. ([View Highlight](https://read.readwise.io/read/01gm5r1z010psrepchedd1nkyp))
+- The big problem with the garden metaphor is that it treats the community members as a crop that just grows, like a natural resource. To quote [Utah Phillips](https://www.azquotes.com/quote/717120), “Have you seen what they do to valuable natural resources? Have you seen a strip mine? Have you seen a clear cut in the forest? Have you seen a polluted river? Don’t ever let them call you a valuable natural resource!” Social media sites have been strip mining us for long enough. ([View Highlight](https://read.readwise.io/read/01gm5r2w26k42y9k41ymxkbdft))

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a89ac3690ce154b7","x":-500,"y":40,"width":340,"height":60,"type":"text","text":"Obsidian reading vault"},
+		{"id":"1461b63dd32c9fdd","x":56,"y":-29,"width":250,"height":60,"type":"text","text":"APItable"},
+		{"id":"f71bafa426dc7e23","x":533,"y":-118,"width":347,"height":58,"type":"text","text":"Fetch and render on site"}
+	],
+	"edges":[
+		{"id":"b201356127100815","fromNode":"a89ac3690ce154b7","fromSide":"right","toNode":"1461b63dd32c9fdd","toSide":"left"},
+		{"id":"3b77959ffa178ae1","fromNode":"1461b63dd32c9fdd","fromSide":"right","toNode":"f71bafa426dc7e23","toSide":"left"}
+	]
+}
