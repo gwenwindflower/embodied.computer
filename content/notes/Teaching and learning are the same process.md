@@ -1,0 +1,1 @@
+Teaching and learning are not separate processes, but different stages within the same process. Teaching is an advanced stage of learning something.

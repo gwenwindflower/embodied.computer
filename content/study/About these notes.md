@@ -1,0 +1,1 @@
+The notes in the study folder are designed for working with Anki-Obsidian. They get automatically converted into flashcards for Anki. You're welcome to use them for the same purpose.

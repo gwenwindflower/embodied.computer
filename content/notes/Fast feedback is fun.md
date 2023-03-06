@@ -1,0 +1,7 @@
+The key to fun in computing is fast feedback loops. You could be doing the most vivid design work or writing the driest mathematical tests, if the REPL, CLI, server, or whatever is giving you feedback is _fast_, _clear_, and _context-aware_ it will impart a sense of fun to the work. These qualities work together to provide visibilty into the underlying models of your designs,
+
+Programming is at its most difficult when we're holding a great deal of logic in a mental model we can't see or touch, and at its most frustrating when a cryptic error issues from those ethereal knots of code. Fast feedback that supports visibility is the antidote to these challenges.
+
+High levels of fast, visible feedback is makes data work and frontend have such similar developer experience feel. Writing hot-reloading styles in Sass and watching colors and shapes change is not so different from running SQL queries and getting tables back, or building charts in python. Typically the mental model overhead is low, the feedback is rapid, and the changes are displayed in a highly visible way¹.
+
+¹I'm using the term visible in this context to indicate that the feedback provides concrete output and an easy way to see the impact of underlying logic, not necessarily that that it is _visual_. You could observe this feedback with a screenreader for example to the same effect.
